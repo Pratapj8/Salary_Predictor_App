@@ -30,23 +30,14 @@ Here’s how the app looks in action:
 
 ---
 
-## 🛠️ Setup Instructions
+## 📦 Model Info
 
-### 1. Clone the Repository
+- Trained on Salary_Data.csv
+- Simple Linear Regression
 
-```bash
-git clone https://github.com/yourusername/salary-predictor.git
-cd salary-predictor
+- R² Score ≈ 0.975 (Excellent Fit 🎯)
 
+## 🎯 Future Ideas
 
-# 📦 Model Info
-Trained on Salary_Data.csv
-
-Simple Linear Regression
-
-R² Score ≈ 0.975 (Excellent Fit 🎯)
-
-# 🎯 Future Ideas
-✅ Switch to Streamlit for easier UI
-
-🔢 Add more input features (education, role, location)
+- ✅ Switch to Streamlit for easier UI
+- 🔢 Add more input features (education, role, location)
