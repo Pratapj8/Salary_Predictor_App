@@ -4,7 +4,7 @@ A simple interactive web app that predicts **salary based on years of experience
 
 ## 📸 Screenshot
 
-Here’s how the app looks in action:
+Here’s how the Streamlit app looks in action:
 
 ![App Screenshot](./Screenshot_2025-04-22_at_1.51.40_PM.png)
 
