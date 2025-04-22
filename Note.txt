@@ -1,0 +1,8 @@
+# Create the Virtual Environment - python -m venv venv
+# Activate the Virtual Environment - source venv/bin/activate
+#  Install Dependencies - pip install -r requirements.txt 
+#  Or Install Dependencies -  pip install flask scikit-learn joblib numpy pandas matplotlib seaborn
+#  Run Your App - python app.py
+#  Run Your App -  streamlit run app.py
+
+
